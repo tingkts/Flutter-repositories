@@ -1,0 +1,21 @@
+[submodule "repository/others/toddLiao469469/flutter_rest_api_playground"]
+	path = repository/toddLiao469469/flutter_rest_api_playground
+	url = git@github.com:toddLiao469469/flutter_rest_api_playground.git
+[submodule "repository/others/toddLiao469469/flutter_todo_list"]
+	path = repository/toddLiao469469/flutter_todo_list
+	url = git@github.com:toddLiao469469/flutter_todo_list.git
+[submodule "repository/official/flutter/codelabs"]
+	path = repository/flutter/codelabs
+	url = git@github.com:flutter/codelabs.git
+[submodule "repository/official/flutter/samples"]
+	path = repository/flutter/samples
+	url = git@github.com:flutter/samples.git
+[submodule "repository/official/flutter/gallery"]
+	path = repository/flutter/gallery
+	url = git@github.com:flutter/gallery.git
+[submodule "repository/others/swiftdo/web-demo/web-demo"]
+	path = repository/swiftdo/web-demo/web-demo
+	url = git@github.com:swiftdo/web-demo.git
+[submodule "repository/book.flutterchina.club/2nd_edition/ch15-finalProj-github_client_app/gitme"]
+	path = repository/book.flutterchina.club/2nd_edition/ch15-finalProj-github_client_app/developer-dhd/gitme/gitme
+	url = git@github.com:developer-dhd/gitme.git
